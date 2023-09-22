@@ -1,0 +1,13 @@
+{
+  "name": "project-1",
+  "version": "1.0.0",
+  "description": "use of useEffect and use of axios and api call ",
+  "main": "index.js", 
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manendra",
+  "license": "MIT"
+}
